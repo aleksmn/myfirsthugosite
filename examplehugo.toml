@@ -1,0 +1,22 @@
+baseURL = "https://www.example.org/"
+languageCode = "ru-ru"
+title = "Mой первый сайт на Hugo"
+theme = "PaperMod"
+
+[[menu.main]]
+identifier = "categories"
+name = "Категории"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Тэги"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "Архив"
+url = "/archives/"
+weight = 30

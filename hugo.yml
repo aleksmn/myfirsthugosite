@@ -1,0 +1,21 @@
+baseURL: ''
+languageCode: 'ru-ru'
+title: 'Mой первый сайт на Hugo'
+theme: 'PaperMod'
+
+menu:
+  main:
+    - identifier: categories
+      name: Категории
+      url: /categories/
+      weight: 10
+
+    - identifier: tags
+      name: Тэги
+      url: /tags/
+      weight: 20
+      
+    - identifier: archives
+      name: Архив
+      url: /archives/
+      weight: 30

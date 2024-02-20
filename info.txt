@@ -1,0 +1,2 @@
+Getting Started PaperMod
+https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
