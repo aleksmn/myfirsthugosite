@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>животные on Mой первый сайт на Hugo</title>
+    <link>/tags/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/</link>
+    <description>Recent content in животные on Mой первый сайт на Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Wed, 14 Feb 2024 15:00:00 +0300</lastBuildDate>
+    <atom:link href="/tags/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пост с картинкой</title>
+      <link>/posts/secondpost/</link>
+      <pubDate>Wed, 14 Feb 2024 15:00:00 +0300</pubDate>
+      <guid>/posts/secondpost/</guid>
+      <description>Всем привет! Это мой новый пост с моем новом блоге, созданном с использованием Hugo генератора статических сайтов!</description>
+    </item>
+  </channel>
+</rss>

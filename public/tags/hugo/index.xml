@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mой первый сайт на Hugo</title>
-    <link>/</link>
-    <description>Recent content on Mой первый сайт на Hugo</description>
+    <title>hugo on Mой первый сайт на Hugo</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on Mой первый сайт на Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Wed, 14 Feb 2024 15:00:00 +0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Пост с картинкой</title>
-      <link>/posts/secondpost/</link>
-      <pubDate>Wed, 14 Feb 2024 15:00:00 +0300</pubDate>
-      <guid>/posts/secondpost/</guid>
-      <description>Всем привет! Это мой новый пост с моем новом блоге, созданном с использованием Hugo генератора статических сайтов!</description>
-    </item>
+    <lastBuildDate>Mon, 12 Feb 2024 14:56:59 +0300</lastBuildDate>
+    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirstpost</title>
       <link>/posts/myfirstpost/</link>
