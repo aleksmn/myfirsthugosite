@@ -4,7 +4,7 @@ date: 2024-02-14T15:00:00+03:00
 draft: false
 
 cover:
-    image: 'horse.jpg'
+    image: 'images/horse.jpg'
     alt: 'White horse'
     caption: 'Белая лошадь скачет по полю'
 ---
