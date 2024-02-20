@@ -3,6 +3,9 @@ title: 'Пост с картинкой'
 date: 2024-02-14T15:00:00+03:00
 draft: false
 
+tags: ["природа", "животные"]
+categories: ["фотографии"]
+
 cover:
     image: 'images/horse.jpg'
     alt: 'White horse'

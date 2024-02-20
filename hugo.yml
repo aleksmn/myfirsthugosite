@@ -1,7 +1,31 @@
 baseURL: ''
-languageCode: 'ru-ru'
+languageCode: 'ru-RU'
 title: 'Mой первый сайт на Hugo'
 theme: 'PaperMod'
+
+defaultContentLanguage: ru
+
+params:
+  homeInfoParams:
+    Title: "Привет, незнакомец!"
+    Content: "Добро пожаловать на мою домашнюю страницу!
+              Здесь можно прочитать мои заметки о жизни, технологиях и фотографии,  
+              а ниже вы найдете ссылки на полезные ресурсы:"
+  socialIcons:
+    - name: telegram
+      url: "https://telegram.com"
+    - name: github
+      url: "https://github.com"
+    - name: youtube
+      url: "https://youtube.com"
+
+
+  dateFormat: "02 Jan 2006, Monday"
+  cover:
+    linkFullImages: true
+  # ShowBreadCrumbs: true
+  # ShowReadingTime: true
+  # ShowPostNavLinks: true
 
 menu:
   main:
@@ -19,3 +43,4 @@ menu:
       name: Архив
       url: /archives/
       weight: 30
+

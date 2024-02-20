@@ -2,6 +2,9 @@
 title: 'Myfirstpost'
 date: 2024-02-12T14:56:59+03:00
 draft: false
+
+tags: ["html", "css", "hugo"]
+categories: ["технологии"]
 ---
 
 ## Всем привет!
