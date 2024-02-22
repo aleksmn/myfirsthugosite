@@ -5,7 +5,10 @@ theme: 'PaperMod'
 
 defaultContentLanguage: ru
 
+copyright: © 2024 Mikhail.
+
 params:
+  hideFooter: false
   homeInfoParams:
     Title: "Привет, незнакомец!"
     Content: "Добро пожаловать на мою домашнюю страницу!
